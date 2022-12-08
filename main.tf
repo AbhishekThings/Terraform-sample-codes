@@ -1,5 +1,5 @@
 provider "aws" {
-region = "us-east-1"
+region = "provide the region code in which you want to deploy your instance"
 access_key = "proivde your user access key here"
 secret_key = "Provide your user secret key here"
 }
